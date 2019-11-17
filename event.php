@@ -41,11 +41,7 @@ th {
 }
 </style>
        
-       <div class="btn-group">
-  <button class="button">registred</button>
-  <button class="button">winners</button>
-  <button class="button">logout</button>
-  <button class="button">recent</button>
+      
 </div>
        
      <center>WELCOME TO WEBSITE</center>
