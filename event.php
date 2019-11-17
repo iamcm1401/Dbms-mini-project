@@ -102,7 +102,7 @@ th {
      <td align="center"></td>
      <td align="center"><a href="register.html">click here</a></td>
       
-     </tr>
+          </tr>
 
      <tr>
       
