@@ -1,0 +1,1 @@
+# Dbms-mini-projectThe project brings the entire manual process of Intercollege event management online which is built using .Html+Css as a front end and SQL Server as a backend. The main purpose of this project is to simplify the process of handling each event by providing a web interface for admin, teacher and students.
